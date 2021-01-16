@@ -1,2 +1,2 @@
 # Task3-API-News
-Creat Api for News
+Create Api for News
