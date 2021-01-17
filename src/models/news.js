@@ -22,8 +22,10 @@ const News = mongoose.model('News',{
         //* unique:true, *//
     },
     date:{
-        type:String,
-        default: dt
+        type: String,
+        default: new Date()
+        
+//         default: dt
     }
 })
 
